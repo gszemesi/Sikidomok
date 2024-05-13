@@ -1,0 +1,7 @@
+6
+kör 0 0 2
+kör 2 4 2
+háromszög 12 4 4
+négyzet 4 4 4
+négyzet 5 6 5
+hatszög 4 6 2
